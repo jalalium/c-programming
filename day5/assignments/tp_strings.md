@@ -2,11 +2,11 @@
 
 ## Lecture Practice
 
-Note : all your arrays of characters most be "strings"
+Note : all your arrays of characters must be "strings"
 
 1. Declare a literal string containing 'Hello'
 2. Declare an empty array of characters then fill it with word 'World'
-3. Declare ana empty array of characters then concatenate the previous strings in it with a space between them without using string.h library.
+3. Declare an empty array of characters then concatenate the previous strings in it with a space between them without using string.h library.
 4. repeat last question using strcat.
 5. repeat 3 using only strcpy.
 6. without doing the compilation what is the return of each of these strcmp calls:  
